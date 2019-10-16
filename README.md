@@ -2,12 +2,7 @@
 
 I post daily multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder), which I'll also post here!
 
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo weekly with new questions. Last update: <a href=#20191009><b>October 9th</b></a>
-
-The answers are in the collapsed sections below the questions, simply click on them to expand it. Good luck :heart:
-
-Want to get an email whenever I've added more questions? <br />
-<a target="_blank" href="https://www.theavocoder.com/subscribe"><b>✨✉Subscribe to email updates✉✨</b></a>
+From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview
 
 
 
